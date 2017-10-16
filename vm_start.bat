@@ -1,0 +1,1 @@
+"D:\Program Files (x86)\VMware\VMware Workstation\vmrun.exe" start "D:\Users\Administrator\Documents\Virtual Machines\CentOS 64 λ\CentOS 64 λ.vmx" nogui
